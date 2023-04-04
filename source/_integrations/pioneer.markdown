@@ -205,3 +205,22 @@ sources:
   'Sirius': '27'
   'Adapter Port': '33'
 ```
+
+#### XC-HM82
+
+```yaml
+port: 8102
+sources:
+  'CD': '01'
+  'Tuner': '02'
+  'IPod/USB': '17'
+  'Internet Radio': '38'
+  'Music Server': '44'
+  'Favoriten': '45'
+  'Audio In': '51'
+  'Line 1': '52'
+  'BT Audio': '56'
+  'Spotify': '57'
+  'Line 2': '58'
+  'Digital In': '59'
+```
